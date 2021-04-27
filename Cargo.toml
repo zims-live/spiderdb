@@ -1,0 +1,9 @@
+[package]
+name = "zimsdb"
+version = "0.1.0"
+authors = ["yzia2000 <e0381439@u.nus.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
